@@ -1,11 +1,12 @@
-1. C#./Nodejs/Angular
-2. SQL/MySQL/Oracle
-3. Docker
+1. C#/Nodejs/AngularJs/Angular
+2. SQL Server/MySQL/Oracle/Redis/MongoDB
+3. Docker Swarm/K8s
 4. Jenkins CI/CD
 5. Google cloud console
 6. Nginx/Apache
-7. AWS
-
+7. Postman/SOAPUI/Jmeter
+8. Lambda Function
+9. Devops
 * Backend Website:
   * https://anicon.asia
   * https://annhan.asia
