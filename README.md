@@ -2,12 +2,12 @@
 2. SQL Server/MySQL/Oracle/Redis/MongoDB
 3. Docker Swarm/K8s
 4. Jenkins CI/CD
-5. Google cloud console
+5. GCP/AWS
 6. Nginx/Apache
 7. Postman/SOAPUI/Jmeter
 8. Lambda Function
-9. Devops
-* Backend Website:
+9. Devops for all below project
+* Backend for Website:
   * https://anicon.asia
   * https://annhan.asia
   * https://autorets.vn
